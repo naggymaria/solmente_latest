@@ -1,0 +1,416 @@
+body {
+    background: linear-gradient(0deg,#8AAFC3 8%, #CFC28E 15%, #CFC28E 30%, #B2CEA8 35%, #B2CEA8 50%,#C59A94 55%, #C59A94 73%, #8AAFC3 80%,#8AAFC3 100%);
+    font-family: "noway_roundregular";
+}
+
+@font-face {
+    font-family: 'noway_roundbold';
+    src: url('assets/fonts/Noway-Round/Noway-Round-Bold-webfont/nowayround-bold-webfont.eot');
+    src: url('assets/fonts/Noway-Round/Noway-Round-Bold-webfont/nowayround-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('assets/fonts/Noway-Round/Noway-Round-Bold-webfont/nowayround-bold-webfont.woff2') format('woff2'),
+    url('assets/fonts/Noway-Round/Noway-Round-Bold-webfont/nowayround-bold-webfont.woff') format('woff'),
+    url('assets/fonts/Noway-Round/Noway-Round-Bold-webfont/nowayround-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'noway_roundlight';
+    src: url('assets/fonts/Noway-Round/Noway-Round-Light-webfont/nowayround-light-webfont.eot');
+    src: url('assets/fonts/Noway-Round/Noway-Round-Light-webfont/nowayround-light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('assets/fonts/Noway-Round/Noway-Round-Light-webfont/nowayround-light-webfont.woff2') format('woff2'),
+    url('assets/fonts/Noway-Round/Noway-Round-Light-webfont/nowayround-light-webfont.woff') format('woff'),
+    url('assets/fonts/Noway-Round/Noway-Round-Light-webfont/nowayround-light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'noway_roundregular';
+    src: url('assets/fonts/Noway-Round/Noway-Round-Regular-webfont/nowayround-regular-webfont.eot');
+    src: url('assets/fonts/Noway-Round/Noway-Round-Regular-webfont/nowayround-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('assets/fonts/Noway-Round/Noway-Round-Regular-webfont/nowayround-regular-webfont.woff2') format('woff2'),
+    url('assets/fonts/Noway-Round/Noway-Round-Regular-webfont/nowayround-regular-webfont.woff') format('woff'),
+    url('assets/fonts/Noway-Round/Noway-Round-Regular-webfont/nowayround-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*__________________TIMELINE SETUP FOR SCROLL_________________________________________*/
+.wrapper{
+    position: fixed;
+    width: 50%;
+    height: 400px;
+}
+
+div#content {
+    opacity: 1;
+    pointer-events: auto;
+    display: block;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+h1 {
+    margin: 0;
+    padding: 0;
+    color:#fff
+}
+#box {
+    position: relative;
+    vertical-align:top;
+    width: 100%;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+    border-bottom-color: white;
+    border-right-style: solid;
+    border-right-width: medium;
+    border-right-color: white;
+}
+
+div#up-left {
+    width: 50%;
+    left: 0;
+    position: relative;
+    transform-style: preserve-3d;
+    margin: 0;
+    top: 0;
+    padding: 0;
+}
+
+div#down-right {
+    width:50%;
+    left: 50%;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    will-change: transform;
+    backface-visibility: hidden;
+}
+
+/*__________________________TIMELINE LEFT BOXES CONTENT________________*/
+
+.box-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.left-container-top {
+    width: 100%;
+    height: 20%;
+    line-height: 120px;
+    text-align: left;
+    padding-left: 10%;
+    /*border: 1px solid red;*/
+    font-family: noway_roundbold;
+    font-size: 200%;
+}
+
+.left-container-bottom {
+    display: flex;
+    width: 100%;
+    height: 80%;
+    text-align: center;
+    /*border: 1px solid red;*/
+}
+
+.left-container-bottom-portions-first{
+    display: block;
+    width: 50%;
+    height: 100%;
+    /*border: 1px solid red;*/
+}
+
+.left-container-bottom-portions-second{
+    display: block;
+    width: 40%;
+    height: 100%;
+    /*border: 1px solid red;*/
+}
+
+.left-container-bottom-portions-portions{
+    display: inline-block;
+    width: 45%;
+    height: 100%;
+    /*border: 1px solid red;*/
+}
+
+.left-container-bottom-portions-divisions{
+    width: 100%;
+    height: 10%;
+    /*border: 1px solid red;*/
+}
+
+
+.left-container-bottom-left {
+    width: 30%;
+    height: 100%;
+    line-height: 215px;
+    text-align: center;
+    /*border: 1px solid red;*/
+}
+
+.left-container-bottom-right {
+    width: 70%;
+    height: 100%;
+    line-height: 215px;
+    text-align: center;
+    /*border: 1px solid red;*/
+}
+
+.resize_fit_left {
+    max-width:100%;
+    max-height:80%;
+}
+
+.button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: noway_roundlight;
+    text-align: center;
+    line-height: normal;
+    text-decoration: none;
+    font-size: 120%;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+/*________________________TIMELINE RIGHT BOXES CONTENT____________________*/
+
+.right-container-top {
+    width: 100%;
+    height: 20%;
+    /*border: 1px solid red;*/
+    display: flex;
+}
+
+.right-container-top-portion{
+    width: 50%;
+    height: 100%;
+    line-height: 120px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: noway_roundbold;
+    font-size: 110%;
+}
+
+.right-container-bottom {
+    width: 100%;
+    height: 80%;
+    line-height: 215px;
+    text-align: center;
+    /*border: 1px solid red;*/
+    display: -webkit-flex;
+}
+
+.right-container-bottom-portion {
+    width: 50%;
+    height: 100%;
+    line-height: 215px;
+    text-align: center;
+    /*border: 1px solid red;*/
+    display: block;
+}
+
+.right-container-bottom-images {
+    width: 100%;
+    height: 37%;
+    /*border: 1px solid red;*/
+    display: flex;
+    justify-content: space-around;
+    vertical-align: center;
+    /*
+    display: table;
+    table-layout: fixed;
+    */
+}
+
+.right-container-bottom-images-space {
+    width: 100%;
+    height: 23%;
+    /*border: 1px solid red;*/
+    display: flex;
+    /*
+    display: table;
+    table-layout: fixed;
+    */
+}
+
+.right-container-bottom-title {
+    width: 100%;
+    height: 25%;
+    /*border: 1px solid red;*/
+    text-align: center;
+    vertical-align: middle;
+    font-family: noway_roundbold;
+    font-size: 110%;
+    line-height: 650%;
+}
+
+.resize_fit_center {
+    max-width:100%;
+    max-height:75%;
+    padding-top: 10%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.icon-display {
+
+    vertical-align: center;
+}
+
+.icons{
+    width: 50%;
+    height: 70%;
+    padding-top: 7%;
+}
+
+.divider{
+    width: 100%;
+    height: 5%;
+}
+
+hr{
+    max-width: 10%;
+    border-color: white;
+    text-align: center;
+    color: white;
+}
+
+.text-one{
+    width: 100%;
+    height: 80%;
+    font-size: 300%;
+    color: white;
+
+}
+
+.text-two{
+    width: 100%;
+    height: 80%;
+    font-size: 200%;
+    color: white;
+
+}
+
+
+/*__________________________IMAGES ANTIGAS (LIMPAR NO FINAL)_____________________________________*/
+
+.insta-image {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    width: 50%;
+}
+
+.solmente-image {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    width: 50%;
+}
+
+
+/*__________________________NAVBAR ANTIGA (LIMPAR NO FINAL) _____________________________________*/
+/*
+#nav-bar {
+    position: fixed;
+    width: 6%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.solmente {
+    position: relative;
+    height: 40%;
+    width: 100%;
+}
+
+.tab {
+    height: 60%;
+    width: 100%;
+}
+
+.sobre {
+    height: 40%;
+    width: 100%;
+    position: relative;
+}
+
+.por-estacao {
+    height: 40%;
+    width: 100%;
+    position: relative;
+}
+
+.insta {
+    position: relative;
+    width: 100%;
+    height: 20%;
+
+}
+
+.roda-texto {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+.box-title{
+    width: 90%;
+    height: 10%;
+    font-family: "Roboto Medium";
+    font-size: 36pt;
+    color: white;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.box-information{
+    width: 100%;
+    height: 90%;
+    font-family: "Roboto Medium";
+    font-size: 36pt;
+    color: white;
+    padding-top: 0;
+    padding-left: 0;
+}
+
+.box-information-text{
+    float: right;
+    width: 30%;
+
+}
+
+.box-information-img{
+    float: left;
+    width: auto;
+    height: 100%;
+
+}
+
+*/

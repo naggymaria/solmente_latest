@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 182 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-393.114,-642.872)">
+        <g id="Plantar" transform="matrix(0.662885,0,0,0.662885,338.227,300.471)">
+            <g transform="matrix(2.58159,0,0,2.58159,-130.957,-816.942)">
+                <circle cx="135.953" cy="569.684" r="53.152" style="fill:rgb(22,22,22);"/>
+            </g>
+            <g transform="matrix(1.50856,0,0,1.50856,-510.235,-453.277)">
+                <path d="M413.425,764.233C426.537,758.988 421.62,746.203 443.256,751.448C455.467,754.408 467.007,768.834 479.156,756.365C498.845,736.158 511.061,756.22 523.901,754.726C536.106,753.306 532.096,738.335 545.209,747.842C550.082,751.374 554.06,761.283 554.06,761.283" style="fill:none;stroke:white;stroke-width:4.94px;"/>
+            </g>
+            <g transform="matrix(1.50856,0,0,1.50856,-510.235,-453.277)">
+                <path d="M484.073,749.183C484.073,749.183 469.81,723.583 481.284,698.341" style="fill:none;stroke:white;stroke-width:3px;"/>
+            </g>
+            <g transform="matrix(-0.0125371,1.12455,-0.891411,-0.00993789,874.687,36.4945)">
+                <path d="M507.325,682.393C507.325,682.393 516.59,693.344 516.59,706.831C516.59,720.319 507.325,731.27 507.325,731.27C507.325,731.27 498.463,720.319 498.463,706.831C498.463,693.344 507.325,682.393 507.325,682.393Z" style="fill:none;stroke:white;stroke-width:2.97px;"/>
+            </g>
+            <g transform="matrix(-0.464879,1.02404,-0.811738,-0.368501,1005.43,330.806)">
+                <path d="M507.325,682.393C507.325,682.393 516.59,693.344 516.59,706.831C516.59,720.319 507.325,731.27 507.325,731.27C507.325,731.27 498.463,720.319 498.463,706.831C498.463,693.344 507.325,682.393 507.325,682.393Z" style="fill:none;stroke:white;stroke-width:2.97px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

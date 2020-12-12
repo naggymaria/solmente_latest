@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 182 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-594.499,-642.872)">
+        <g id="Cavare-Sachar" serif:id="Cavare Sachar" transform="matrix(0.662885,0,0,0.662885,539.612,300.471)">
+            <g transform="matrix(2.58159,0,0,2.58159,-130.957,-816.942)">
+                <circle cx="135.953" cy="569.684" r="53.152" style="fill:rgb(22,22,22);"/>
+            </g>
+            <g transform="matrix(1.7141,0,0,1.7141,-979.752,-599.454)">
+                <g transform="matrix(0.956627,-0.291316,0.291316,0.956627,-962.897,863.198)">
+                    <path d="M1642.29,320.099L1636.83,324.548L1636.83,402.742L1642.29,402.742L1642.29,320.099Z" style="fill:rgb(22,22,22);stroke:white;stroke-width:1.76px;"/>
+                </g>
+                <g transform="matrix(0.647198,0,0,0.647198,-381.152,483.578)">
+                    <path d="M1655.44,322.773C1655.29,320.352 1655.83,317.864 1657.13,315.609C1660.66,309.492 1668.5,307.393 1674.62,310.925C1680.73,314.457 1682.83,322.29 1679.3,328.408C1677.67,331.225 1675.13,333.189 1672.27,334.145L1681.02,340.052L1645.98,379.453L1614.62,358.263L1649.65,318.861L1655.44,322.773Z" style="fill:rgb(22,22,22);stroke:white;stroke-width:4.08px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 182 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1204.18,-49.3587)">
+        <g transform="matrix(1,0,0,1,255.997,-7.76377)">
+            <text x="951.219px" y="287.798px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:42px;fill:white;">Na estufa</text>
+        </g>
+        <g id="Na-estufa" serif:id="Na estufa" transform="matrix(0.662885,0,0,0.662885,1149.3,-293.043)">
+            <g transform="matrix(1.50856,0,0,1.50856,-1656.65,-134.558)">
+                <path d="M1244.02,431.598C1294.22,431.598 1334.98,472.355 1334.98,522.557C1334.98,572.759 1294.22,613.516 1244.02,613.516C1193.82,613.516 1153.06,572.759 1153.06,522.557C1153.06,472.355 1193.82,431.598 1244.02,431.598ZM1231.08,564.646L1187.08,537.28C1187.08,511.635 1198.41,480.535 1214.52,480.535L1266.02,485.687C1285.3,485.687 1300.95,499.475 1300.95,516.458L1300.95,556.153L1231.08,564.646Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.50856,0,0,1.50856,-220.74,-134.558)">
+                <path d="M279.235,564.646C279.235,520.17 280.14,485.195 314.665,485.195" style="fill:none;stroke:white;stroke-width:0.96px;"/>
+            </g>
+            <g transform="matrix(1.50856,0,0,1.50856,-220.74,-134.558)">
+                <path d="M280.531,524.805L237.397,507.805" style="fill:none;stroke:white;stroke-width:0.96px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(1.50856,0,0,1.50856,-203.179,-181.489)">
+                <path d="M280.531,524.805L237.091,516.305" style="fill:none;stroke:white;stroke-width:0.96px;stroke-linecap:butt;"/>
+            </g>
+            <g transform="matrix(1.50856,0,0,1.50856,-220.74,-134.558)">
+                <path d="M325.526,529.453L308.46,530.345L308.46,563.698L325.526,561.533L325.526,529.453Z" style="fill:none;stroke:white;stroke-width:1.46px;stroke-linecap:butt;"/>
+            </g>
+        </g>
+    </g>
+</svg>

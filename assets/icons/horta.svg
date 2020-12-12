@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 182 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-948.187,-49.3587)">
+        <g transform="matrix(1,0,0,1,1.13687e-13,-382.239)">
+            <g id="Na-horta" serif:id="Na horta">
+                <path d="M1039.15,431.598C1089.35,431.598 1130.11,472.355 1130.11,522.557C1130.11,572.759 1089.35,613.516 1039.15,613.516C988.944,613.516 948.187,572.759 948.187,522.557C948.187,472.355 988.944,431.598 1039.15,431.598ZM1034.64,541.802C1020.79,534.121 1006.94,534.182 993.086,541.893L960.108,509.469C974.014,502.824 987.919,501.894 1001.83,509.469L1002.15,509.315C1015.94,502.814 1029.73,501.954 1043.52,509.456C1057.41,502.823 1071.31,501.899 1085.21,509.469L1118.18,541.893C1104.29,534.127 1090.4,534.151 1076.5,541.875L1076.52,541.893L1076.49,541.879L1076.47,541.893L1076.4,541.827C1062.53,534.121 1048.67,534.174 1034.8,541.893L1034.64,541.802Z" style="fill:white;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-7.76377)">
+            <text x="958.275px" y="287.798px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:42px;fill:white;">Na horta</text>
+        </g>
+    </g>
+</svg>
